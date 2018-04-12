@@ -13,22 +13,3 @@
 <body>
 
   <main>
-    <header>
-      <ul>
-        <li><img src="./res/img/png/banana-logo.png" /></li>
-        <li><img src="./res/img/png/me-logo.png" /></li>
-      </ul>
-      <ul class="nav large">
-        <li><a href="index.php">Home</a></li>
-        <li><a href="gallery.php">Gallery</a></li>
-        <li><a href="contact.php">Contact</a></li>
-        <li><a href="archive.php">Archive</a></li>
-      </ul>
-      <div class="burger"><i class="fa fa-bars fa-3x"></i></div>
-      <ul class="dnone small">
-        <li><a href="index.php">Home</a></li>
-        <li><a href="gallery.php">Gallery</a></li>
-        <li><a href="contact.php">Contact</a></li>
-        <li><a href="archive.php">Archive</a></li>
-      </ul>
-    </header>

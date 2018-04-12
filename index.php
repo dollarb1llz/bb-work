@@ -1,48 +1,71 @@
-<?php $page_title = 'Home'; include './res/inc/header.php'; ?>
+<?php $page_title = 'BananaBilly'; include './res/inc/header.php'; ?>
 
-    <div class="banner">
-      <img src="./res/img/landscape/course-sundown.jpg" />
-    </div>
 
     <div class="container">
-      <div class="heading">Doing my own thing</div>
-      <div class="subheading">April 8th, 2018</div>
+      <div class="heading">Nailed it this Morning</div>
+      <div class="subheading">April 12th, 2018</div>
+      <header>
+        <a href="./index.php">
+          <ul>
+            <li><img src="./res/img/header/banana-logo.png" /></li>
+            <li><img src="./res/img/header/me-logo.png" /></li>
+          </ul>
+        </a>
+      </header>
+      <div class="banner">
+        <img src="./res/img/banner.jpg" />
+      </div>
+
       <p>
-        Today is interesting because I am practicing new habits and also working on my new setup. I am looking forward to eating some potatos in a minute and i should probably go check on them soon.
+        Helloooo. I want to start by saying how great this morning was for me. It was just one of those morning where I actually nailed it. I just nailed it all. And it all began yesterday at sundown. I stopped what I was doing at sundown to go home and get prepared for the next day. And the result...
       </p>
-      <blockquote class="twitter-tweet"><p lang="en" dir="ltr">It&#39;s one of those mornings where I don&#39;t feel like doing anything. Feeling tired and lazy. We&#39;re still going to go for it anyways. Just have to keep flowin.. <a href="https://t.co/7g1byQVPra">pic.twitter.com/7g1byQVPra</a></p>&mdash; Billy Hunter (@derrickhabenero) <a href="https://twitter.com/derrickhabenero/status/982170870402592768?ref_src=twsrc%5Etfw">April 6, 2018</a></blockquote>
+      <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/RichardSageTSM?ref_src=twsrc%5Etfw">@RichardSageTSM</a> We&#39;re improving ourselves everyday bro. May the love be with you. The journey to enlightenment isn&#39;t as lonely anymore.</p>&mdash; Billy Hunter (@derrickhabenero) <a href="https://twitter.com/derrickhabenero/status/984458776173522945?ref_src=twsrc%5Etfw">April 12, 2018</a></blockquote>
       <p>
-        As many of you know I make killer teas in the am. This morning i was literally a walking zombie going through the motions but we made it! And we got some content up on the Snapchat!
+        <strong>4:00 AM</strong> - I woke up to the sounds of The Showman. I had it playing through the night to serve as somewhat of an affirmation. That movie is so damn uplifting it's crazy. And I actually woke up to the exact song that I layed down to. I figured I would wake up more positive but I'm not going to lie, I was still pretty weak to get up.
       </p>
 
-      <article class="snapchat">
-        <video controls poster="./res/img/poster/snapchat.jpg">
-          <source src="./res/vid/snap/magician-evolving.mp4" type="video/mp4" />
-          Your browser does not support HTML5 video.
-        </video>
+      <article class="img">
+        <img src="./res/img/meme.jpg" alt="Billy going 'hmmm'" />
       </article>
 
       <p>
-        So after my tea I enjoyed some of my books and played some music on my strings of guitars. After that I made sure to practice my muscles and stretch them good. After that we went out and practice a few other things I hold dear to my heart.
+        I made a killer ginger potion right after I woke up around <strong>4:30 AM</strong>. Haha I had some fun posting the process of making the potion on snapchat. I made a story of it if you want to check it out &#64;derrickhabenero . But overall the potion did it's job. I actually went through 3 major detoxification processes if you catch my drift. It's such an effective way to eliminate and it doesn't taste so bad if you put cinnamon in it. oooh and the magic ingredient is key as well haha.
       </p>
 
-      <article class="instagram">
-        <video src="./res/vid/ig/outside-helmet.mp4" controls poster="./res/img/poster/ig.jpg">
-
-        </video>
+      <article class="img">
+        <img src="./res/img/position.jpg" alt="Lol feet" />
       </article>
 
       <p>
-        I had a pretty interesting time in the forest today, we were pressed on time so I took a short little video of the experience.
+        As I drank my tea I caught up with my notebook and jotted a few things down that were on my mind. I wrote something like this "Hey Billy, good morning! Today you are going to smash it man. You can do it.". I like to think that i'm the one standing in the way of my own destiny. So I just want to talk to myself and touch base. But while I was at it I read a few motivational words about health and vitality from one of my health books. For some reason reading those words reminds me of how crucial health is. Health &gt; Pleasure.
       </p>
 
       <article class="youtube">
         <iframe width="100%" height="315"
-          src="https://www.youtube.com/embed/6TrYZTCsMGo">
+          src="https://www.youtube.com/embed/TVqhDVkAqAk">
         </iframe>
       </article>
 
+      <p>
+        <strong>6:00 AM</strong> - At this time the sun started to rise so I knew I had to get going with my routine if I wanted to make it outside in time to watch the forest come to life. So I began stretching and finished my tea. The stretch sesh was a good sesh. Stretching just feels amazing. One thing I wish I would of done is use the foam roller ah well. Tomorrow.
+      </p>
 
+      <p>
+        <strong>7:00 AM</strong> - I made it outside just as the sun started making his move with time to spare before work. Lets just say it was perfect. It was chilly but it didn't bother me at all. I even ditched the boots to walk down to the creek barefoot. I got down to the creek and really didn't know what to do but I clutched a youtube video which was funny. Then I decided I wanted to livestream myself sitting still observing nature. And so I did. I streamed a solid hour on Twitch for the first time and I got like 5 views. Like, what? lol.
+      </p>
+
+      <p>Overall this morning worked out great! Lets check off the list here..</p>
+      <ul class="content">
+        <li>Posted on the socials</li>
+        <li>Woke up in time</li>
+        <li>Made killer tea</li>
+        <li>Read, Cleared my mind and Stretched</li>
+        <li>Visited the forest</li>
+        <li>Livestreamed on Twitch</li>
+      </ul>
+
+      <p>Thanks for stopping by. Lets do this again tomorrow! Hell yea man. Lets do this. You can find more of me across the socials. at derrickhabenero.
+      </p>
     </div>
 
 

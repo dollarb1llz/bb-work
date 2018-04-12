@@ -1,14 +1,16 @@
-
+<div class="c"></div>
 <!-- Footer -->
 <footer>
-  <ul>
+  <ul class="cc">
     <li>&copy; bananabilly.com 2018</li>
   </ul>
   <ul class="nav">
-    <li><a href="index.php">Home</a></li>
-    <li><a href="gallery.php">Gallery</a></li>
-    <li><a href="contact.php">Contact</a></li>
-    <li><a href="archive.php">Archive</a></li>
+    <li><a href="https://www.twitter.com/derrickhabenero">Twitter</a></li>
+    <li>Snapchat @derrickhabenero</li>
+    <li><a href="https://www.instagram.com/derrickhabenero">Instagram</a></li>
+    <li><a href="https://www.facebook.com/billy.hunter.1401933">Facebook</a></li>
+    <li><a href="https://www.twitch.tv/billyxhunter">Twitch</a></li>
+    <li><a href="https://www.gab.ai/derrickhabenero">Gab</a></li>
   </ul>
 </footer>
 
